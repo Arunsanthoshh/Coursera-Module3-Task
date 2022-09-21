@@ -9,3 +9,18 @@ body {
 h1 {
     text-align: center;
 }
+
+.container-fluid {
+    background-color: lightgray;
+    padding: 30px;
+}
+
+.container-fluid p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.row {
+    margin: 5px;
+}
